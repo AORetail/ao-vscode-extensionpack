@@ -1,0 +1,41 @@
+{
+  "name": "ao-vscode-extensionpack",
+  "version": "0.1.0",
+  "publisher": "aoretail",
+  "displayName": "AO VS Code Extension Pack",
+  "description": "A collection of extensions for AO",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#FFFFFF",
+    "theme": "light"
+  },
+  "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/AORetail/ao-vscode-extensionpack"
+  },
+  "homepage": "https://github.com/AORetail/ao-vscode-extensionpack",
+  "bugs": {
+    "url": "https://github.com/AORetail/ao-vscode-extensionpack/issues"
+  },
+  "keywords": [
+    "ao",
+    "vue extension collection"
+  ],
+  "categories": [
+    "Extension Packs", "Linters", "Formatters"
+  ],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "extensionDependencies": [
+    "esbenp.prettier-vscode",
+    "EditorConfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mrcrowl.hg",
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "mrmlnc.vscode-stylefmt",
+    "shinnn.stylelint"
+  ]
+}
