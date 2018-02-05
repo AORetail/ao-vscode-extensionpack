@@ -1,4 +1,4 @@
-# Vue VSCode Extension Pack
+# AO VSCode Extension Pack
 
 A collection of extensions for VS Code.
 
