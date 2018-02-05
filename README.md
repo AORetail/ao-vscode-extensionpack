@@ -60,5 +60,5 @@ A collection of extensions for VS Code.
 
 ## Relevant Links
 
-* [Github](ttps://github.com/AORetail/ao-vscode-extensionpack)
+* [Github](https://github.com/AORetail/ao-vscode-extensionpack)
 * [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=aoretail.ao-vscode-extensionpack)
