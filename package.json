@@ -19,10 +19,10 @@
   },
   "keywords": [
     "ao",
-    "vue extension collection"
+    "linting & utilities extension collection"
   ],
   "categories": [
-    "Extension Packs", "Linters", "Formatters"
+    "Extension Packs"
   ],
   "engines": {
     "vscode": "^1.14.0"
@@ -35,7 +35,6 @@
     "wix.vscode-import-cost",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "mrmlnc.vscode-stylefmt",
     "shinnn.stylelint"
   ]
 }
