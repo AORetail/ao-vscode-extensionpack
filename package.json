@@ -1,6 +1,6 @@
 {
   "name": "ao-vscode-extensionpack",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "aoretail",
   "displayName": "AO VS Code Extension Pack",
   "description": "A collection of extensions for AO",
@@ -25,16 +25,15 @@
     "Extension Packs"
   ],
   "engines": {
-    "vscode": "^1.14.0"
+    "vscode": "^1.45.0"
   },
   "extensionDependencies": [
     "esbenp.prettier-vscode",
     "EditorConfig.editorconfig",
     "dbaeumer.vscode-eslint",
-    "mrcrowl.hg",
     "wix.vscode-import-cost",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "shinnn.stylelint"
+    "stylelint.vscode-stylelint"
   ]
 }
